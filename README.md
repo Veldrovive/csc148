@@ -1,2 +1,2 @@
 # csc148
-CSC 148 Test Code
+Test code for CSC148 assignment 2
